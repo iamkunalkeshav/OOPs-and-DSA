@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays2D/Arrays2D.iml" filepath="$PROJECT_DIR$/Arrays2D/Arrays2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays2DRevision/Arrays2DRevision.iml" filepath="$PROJECT_DIR$/Arrays2DRevision/Arrays2DRevision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysQuestions/ArraysQuestions.iml" filepath="$PROJECT_DIR$/ArraysQuestions/ArraysQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysRivision/ArraysRivision.iml" filepath="$PROJECT_DIR$/ArraysRivision/ArraysRivision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Revise/Arrays_Revise.iml" filepath="$PROJECT_DIR$/Arrays_Revise/Arrays_Revise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kunal Kushwaha/Arrayss/Arrayss.iml" filepath="$PROJECT_DIR$/Kunal Kushwaha/Arrayss/Arrayss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitWise Operator/BitWise Operator.iml" filepath="$PROJECT_DIR$/BitWise Operator/BitWise Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODSOFT/CODSOFT.iml" filepath="$PROJECT_DIR$/CODSOFT/CODSOFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalsAndLoops/ConditionalsAndLoops.iml" filepath="$PROJECT_DIR$/ConditionalsAndLoops/ConditionalsAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" filepath="$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/JavaCollectionFramework.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/JavaCollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kunal Kushwaha/Kunal Kushwaha.iml" filepath="$PROJECT_DIR$/Kunal Kushwaha/Kunal Kushwaha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KunalKushwahaCondiAndLoops/KunalKushwahaCondiAndLoops.iml" filepath="$PROJECT_DIR$/KunalKushwahaCondiAndLoops/KunalKushwahaCondiAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListCW/LinkedListCW.iml" filepath="$PROJECT_DIR$/LinkedListCW/LinkedListCW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList_Sharpener/LinkedList_Sharpener.iml" filepath="$PROJECT_DIR$/LinkedList_Sharpener/LinkedList_Sharpener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS-Alpha/OOPS-Alpha.iml" filepath="$PROJECT_DIR$/OOPS-Alpha/OOPS-Alpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPsSharpener/OOPsSharpener.iml" filepath="$PROJECT_DIR$/OOPsSharpener/OOPsSharpener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs_Anuj_Bhaiya/OOPs_Anuj_Bhaiya.iml" filepath="$PROJECT_DIR$/OOPs_Anuj_Bhaiya/OOPs_Anuj_Bhaiya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs_Piyush_Garg/OOPs_Piyush_Garg.iml" filepath="$PROJECT_DIR$/OOPs_Piyush_Garg/OOPs_Piyush_Garg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern2/Pattern2.iml" filepath="$PROJECT_DIR$/Pattern2/Pattern2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project-Guess The Name/Project-Guess The Name.iml" filepath="$PROJECT_DIR$/Project-Guess The Name/Project-Guess The Name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalsAndLoops/QuestionsAlpha/QuestionsAlpha.iml" filepath="$PROJECT_DIR$/ConditionalsAndLoops/QuestionsAlpha/QuestionsAlpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Revision/Recursion Revision.iml" filepath="$PROJECT_DIR$/Recursion Revision/Recursion Revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionSharpener/RecursionSharpener/RecursionSharpener.iml" filepath="$PROJECT_DIR$/RecursionSharpener/RecursionSharpener/RecursionSharpener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Self-Practice/Self-Practice.iml" filepath="$PROJECT_DIR$/Self-Practice/Self-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sharpeners/Sharpeners.iml" filepath="$PROJECT_DIR$/Sharpeners/Sharpeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" filepath="$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringRevision/StringRevision.iml" filepath="$PROJECT_DIR$/StringRevision/StringRevision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KunalKushwahaCondiAndLoops/Switch/Switch.iml" filepath="$PROJECT_DIR$/KunalKushwahaCondiAndLoops/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" filepath="$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/continue/continue.iml" filepath="$PROJECT_DIR$/continue/continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam.iml" filepath="$PROJECT_DIR$/exam/exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while loop/loops.iml" filepath="$PROJECT_DIR$/while loop/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopsquestion/loopsquestion.iml" filepath="$PROJECT_DIR$/loopsquestion/loopsquestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/only rough works/only rough works.iml" filepath="$PROJECT_DIR$/only rough works/only rough works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rough/rough.iml" filepath="$PROJECT_DIR$/rough/rough.iml" />
+    </modules>
+  </component>
+</project>

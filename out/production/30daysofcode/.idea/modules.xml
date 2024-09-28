@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/30daysofcode.iml" filepath="$PROJECT_DIR$/30daysofcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalsAndLoops/ConditionalsAndLoops.iml" filepath="$PROJECT_DIR$/ConditionalsAndLoops/ConditionalsAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" filepath="$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalsAndLoops/QuestionsAlpha/QuestionsAlpha.iml" filepath="$PROJECT_DIR$/ConditionalsAndLoops/QuestionsAlpha/QuestionsAlpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" filepath="$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while loop/loops.iml" filepath="$PROJECT_DIR$/while loop/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/only rough works/only rough works.iml" filepath="$PROJECT_DIR$/only rough works/only rough works.iml" />
+    </modules>
+  </component>
+</project>
